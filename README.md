@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Senior Software/Cloud (Azure, GCP, AWS) Engineer | MCT, MCP | Agile/Scrum Master | IoT, ML & AI | Security
+### Senior Software/Cloud (Azure, GCP, AWS) Engineer | MCT, MCP | Agile/Scrum Master | IoT, ML & AI
 
 - 🔭 I’m currently working on an awesome Project, I will let you know soonest!
 - 👯 I’m looking to collaborate on Startup Idea and Open Source Projects (.NET)
